@@ -1,2 +1,19 @@
-aplikasi berbasis web gudang barang ini dibuat menggunakan HTML,CSS, dan PHP serta database phpMyadmin. aplikasi ini dibuat untuk memenuhi nilai UAS pada matakuliah SISTEM BASIS DATA.
-![image](https://github.com/user-attachments/assets/3afaf2f4-ceae-4e55-aea2-a54c22ee0d18)
+# 📦 Aplikasi Gudang Barang menggunakan database phpMyAdmin
+
+Aplikasi Gudang Barang berbasis web ini dibuat menggunakan HTML, CSS, dan PHP serta database phpMyAdmin. Aplikasi ini dirancang untuk mengelola data barang secara efisien dan memenuhi tugas UAS pada mata kuliah **Sistem Basis Data**.
+
+![image](https://github.com/user-attachments/assets/ac522d8e-b183-4079-b884-43e066952b0c)
+
+
+---
+
+## 👨‍💻 Pengembang
+- Froni Wahyudi (17230179)
+
+## ⚙️ Persyaratan Sistem
+- XAMPP
+
+## 🔗 Referensi & Tools
+- Visual Studio Code
+- Git Bash
+- Gudang Barang
